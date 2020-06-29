@@ -1,3 +1,5 @@
+Character.destroy_all
+
 Character.create({
   name: 'Luke',
   image: 'https://vignette.wikia.nocookie.net/star-wars-canon-extended/images/2/2c/Luke_Sky7.jpg/revision/latest/scale-to-width-down/340?cb=20180123070942',
